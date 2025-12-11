@@ -2,9 +2,10 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/lecture_1/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="uv (lecture_1)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (innowise_laboratory)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
