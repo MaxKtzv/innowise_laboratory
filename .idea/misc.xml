@@ -3,10 +3,9 @@
   <component name="Black">
     <option name="sdkName" value="uv (lecture_1)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (innowise_laboratory)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (innowise_laboratory)" project-jdk-type="Python SDK" />
   <component name="RuffConfiguration">
     <option name="enabled" value="true" />
-    <option name="executableDiscoveryMode" value="PATH" />
     <option name="pathToExecutable" value="D:\Users\Admin\.local\bin\ruff.exe" />
   </component>
 </project>

@@ -1,0 +1,11 @@
+[project]
+name = "innowise-laboratory"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "colorama>=0.4.6",
+    "fastapi>=0.124.4",
+    "sqlmodel>=0.0.27",
+    "uvicorn>=0.38.0",
+]
